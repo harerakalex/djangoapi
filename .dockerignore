@@ -1,0 +1,11 @@
+# Folders
+
+.git
+__pycache__
+
+# files
+.gitignore
+Makefile
+README.md
+docker-compose.yml
+*.pyc
